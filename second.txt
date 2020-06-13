@@ -1,9 +1,12 @@
 
+
 MY NAME IS KHAN
 
 
 salam dear
 
+=======
+>>>>>>> parent of 15438f4... updated second.txt
 working on remote repositoryy
 
 
